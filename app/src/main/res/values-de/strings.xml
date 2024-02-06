@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">student721042</string>
+    <string name="home" translatable="false">Startseite</string>
+    <string name="favorite" translatable="false">Favoriten</string>
+    <string name="account" translatable="false">Konto</string>
+
+    // Überschriften
+    <string name="homePage" translatable="false">Nachrichtenleser</string>
+    <string name="favPage" translatable="false">Meine Lieblingsartikel</string>
+
+    // Accountseite
+    <string name="hello" translatable="false">Hallo </string>
+    <string name="notLoggedIn" translatable="false">Du bist nicht eingeloggt. </string>
+
+    <string name="sign" translatable="false">Hier registrieren</string>
+    <string name="reg" translatable="false">Registrieren</string>
+    <string name="login" translatable="false">Einloggen</string>
+    <string name="loginHere" translatable="false">Hier einloggen</string>
+    <string name="labelUser" translatable="false">Benutzername</string>
+    <string name="labelPass" translatable="false">Passwort</string>
+
+    // Fehler
+    <string name="error_timeout" translatable="false">Zeitüberschreitung beim Abrufen von Daten.</string>
+    <string name="error_articles" translatable="false">Fehler beim Abrufen von Artikeln.</string>
+    <string name="error_authentication_required" translatable="false">Authentifizierung erforderlich. Bitte einloggen.</string>
+    <string name="error_access_denied" translatable="false">Zugriff verweigert. Sie haben keine Berechtigung für diese Aktion.</string>
+    <string name="error_data_not_found" translatable="false">Die angeforderten Daten wurden nicht gefunden.</string>
+    <string name="error_internal_server" translatable="false">Interner Serverfehler. Bitte versuchen Sie es später erneut.</string>
+    <string name="error_unknown" translatable="false">Ein unbekannter Fehler ist aufgetreten. Bitte kontaktieren Sie den Support.</string>
+    <string name="error_unknown_generic" translatable="false">Ein unbekannter Fehler ist aufgetreten: %1$s</string>
+
+    <string name="error_internal_server_register" translatable="false">Interner Serverfehler. Bitte versuchen Sie es später erneut.</string>
+    <string name="error_unknown_register" translatable="false">Ein unbekannter Fehler ist aufgetreten. Bitte kontaktieren Sie den Support.</string>
+    <string name="error_username_exists" translatable="false">Benutzername existiert bereits. Bitte wählen Sie einen anderen.</string>
+    <string name="error_network_issue" translatable="false">Netzwerkproblem. Überprüfen Sie Ihre Internetverbindung.</string>
+
+    <string name="error_like" translatable="false">Fehler beim Liken/Disliken des Artikels.</string>
+    <string name="error_fetchData" translatable="false">Fehler beim Laden der Daten </string>
+    <string name="error_general" translatable="false">Ein allgemeiner Fehler ist aufgetreten.</string>
+    <string name="error_null" translatable="false">Fehler, Ergebnis ist null.</string>
+
+    <string name="article_detail" translatable="false">Artikeldetails</string>
+    <string name="error_article_detail" translatable="false">Artikel ist derzeit nicht verfügbar. Bitte versuchen Sie es später erneut.</string>
+    <string name="error_show_articles_category" translatable="false">Ungültige Kategorie-ID. Bitte versuchen Sie es erneut.</string>
+    <string name="relatedArticles" translatable="false">Ähnliche Artikel</string>
+    <string name="shareArticle" translatable="false">Diesen Artikel teilen</string>
+    <string name="noArticlesCategory" translatable="false">Keine weiteren Artikel in dieser Kategorie verfügbar</string>
+    <string name="noArticles" translatable="false">Keine Artikel verfügbar.</string>
+    <string name="errorLoadingArticles" translatable="false">Ein unbekannter Fehler ist aufgetreten. Bitte kontaktieren Sie den Support.</string>
+    <string name="errorLogin" translatable="false">Fehler beim Einloggen: Es gab ein Problem beim Einloggen.
+    Bitte überprüfen Sie Ihre Anmeldedaten und stellen Sie sicher, dass Sie den richtigen Benutzernamen und das richtige Passwort verwenden.
+    Wenn das Problem weiterhin besteht, kontaktieren Sie bitte den Support.</string>
+
+    <string name="registration200" translatable="false">Registrierung war erfolgreich.</string>
+    <string name="login200" translatable="false">Login war erfolgreich.</string>
+
+</resources>

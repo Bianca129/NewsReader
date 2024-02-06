@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">student721042</string>
+
+    //Navigation Bar
+    <string name="home" translatable="false">Home</string>
+    <string name="favorite" translatable="false">Favorite</string>
+    <string name="account" translatable="false">Account</string>
+
+    //Headlines
+    <string name="homePage" translatable="false">NewsReader</string>
+    <string name="favPage" translatable="false">My favourite articles</string>
+
+    //Accountpage
+    <string name="hello" translatable="false">Hello </string>
+    <string name="notLoggedIn" translatable="false">You are not logged in. </string>
+
+
+    <string name="sign" translatable="false">Sign up here</string>
+    <string name="reg" translatable="false">Register</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="loginHere" translatable="false">Login here</string>
+    <string name="labelUser" translatable="false">Username</string>
+    <string name="labelPass" translatable="false">Password</string>
+
+
+    //Error
+    <string name="error_timeout" translatable="false">Timeout while retrieving data.</string>
+    <string name="error_articles" translatable="false">Error when retrieving articles.</string>
+    <string name="error_authentication_required" translatable="false">Authentication required. Please log in.</string>
+    <string name="error_access_denied" translatable="false">Access denied. You do not have permission for this action.</string>
+    <string name="error_data_not_found" translatable="false">The requested data was not found.</string>
+    <string name="error_internal_server" translatable="false">Internal server error. Please try again later.</string>
+    <string name="error_unknown" translatable="false">An unknown error occurred. Please contact support.</string>
+    <string name="error_unknown_generic" translatable="false">An unknown error occurred: %1$s</string>
+
+
+    <string name="error_internal_server_register" translatable="false">Internal server error. Please try again later.</string>
+    <string name="error_unknown_register" translatable="false">An unknown error occurred. Please contact support.</string>
+    <string name="error_username_exists" translatable="false">Username exists already. Please choose another one.</string>
+    <string name="error_network_issue" translatable="false">Network issue. Check your internet connection.</string>
+
+
+    <string name="error_like" translatable="false">Error when liking/disliking the article.</string>
+    <string name="error_fetchData" translatable="false">Error loading the data </string>
+    <string name="error_general" translatable="false">A general error has occurred.</string>
+    <string name="error_null" translatable="false">Failure, result is null.</string>
+
+
+    <string name="article_detail" translatable="false">Article Details</string>
+    <string name="error_article_detail" translatable="false">Article is currently not available. Please try again later.</string>
+    <string name="error_show_articles_category" translatable="false">Invalid category ID. Please try again.</string>
+    <string name="relatedArticles" translatable="false">Related Articles</string>
+    <string name="shareArticle" translatable="false">Share this article</string>
+    <string name="noArticlesCategory" translatable="false">No other articles with this category available</string>
+    <string name="noArticles" translatable="false">No articles available.</string>
+
+    <string name="errorLoadingArticles" translatable="false">An unknown error has occurred. Please contact support.</string>
+    <string name="errorLogin" translatable="false">Error while logging in: There was a problem trying to log in.
+        Please check your login information and make sure you are using correct username and password.
+        If the problem persists, please contact support.</string>
+
+    <string name="registration200" translatable="false">Registration was successful.</string>
+    <string name="login200" translatable="false">Login was successful.</string>
+
+
+
+
+</resources>
