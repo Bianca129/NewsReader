@@ -39,3 +39,38 @@ The NewsReader app, built with Jetpack Compose and Kotlin, is a user-friendly An
 
 
 
+
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Screenshots/1 - Start - Lightmode.png" alt="Start App" width="200"><br>
+      <em>Logo when starting the application</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="Screenshots/2 - MainPage - Darkmode deutsch" alt="Main Page with all listed articles - Darkmode" width="200"><br>
+      <em>Main Page with all listed articles - Darkmode</em>
+    </td>
+     <td align="center" width="33%">
+      <img src="Screenshots/2 - MainPage - Lightmode deutsch" alt="Main Page with all listed articles - Lightmode" width="200"><br>
+      <em>Main Page with all listed articles - Lightmode</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Screenshots/3 - FavoritePage - Lightmode deutsch" alt="Liked articles" width="200"><br>
+      <em>Liked Articles Screen</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="Screenshots/4 - DetailPage - Lightmode" alt="Detailpage" width="200"><br>
+      <em>Detailpage of an article</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="Screenshots/4_1 - DetailPage - Lightmode Share Like" alt="Share Like" width="200"><br>
+      <em>Detailpage of an article with share icon and like icon</em>
+    </td>
+  </tr>
+</table>
+
+
+
