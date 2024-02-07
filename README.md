@@ -34,11 +34,6 @@ The NewsReader app, built with Jetpack Compose and Kotlin, is a user-friendly An
 - Enable article sharing 
 - An Icon for the App
 
-  
-![Alt-Text](Screenshots/1 - Start - Lightmode.png)
-
-
-
 
 
 <table>
